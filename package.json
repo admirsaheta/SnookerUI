@@ -1,0 +1,41 @@
+{
+  "name": "@praella/snooker-ui",
+  "version": "1.0.0",
+  "description": "Used to SwiftUI? Have to work in React-Native? You'll enjoy this",
+  "main": "main.js",
+  "typings": "main.d.ts",
+  "types": "main.d.ts",
+  "repository": "https://github.com/admirsaheta/SnookerUI",
+  "author": "admirsaheta<admir@praella.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@types/node": "^14.14.10",
+    "@types/react": "^17.0.2",
+    "@types/react-native": "^0.71.1",
+    "copyfiles": "^2.4.1",
+    "esbuild": "^0.8.50",
+    "nodemon": "^2.0.6",
+    "prettier": "^2.5.1",
+    "react-native-sfsymbols": "1.1.0",
+    "rimraf": "^3.0.2",
+    "rollup": "^2.39.0",
+    "rollup-plugin-copy": "^3.4.0",
+    "rollup-plugin-dts": "^2.0.1",
+    "rollup-plugin-esbuild": "^2.6.1",
+    "tslint": "^6.1.3",
+    "typescript": "^4.5.5"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-native-sfsymbols": ">=1.0.0"
+  },
+  "resolutions": {
+    "react": "17.0.2"
+  },
+   "keywords": [
+    "react-native",
+    "swiftui"
+  ]
+}
